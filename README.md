@@ -34,9 +34,12 @@ Joint 4 to 5: 100cm;
 
 
 ## InstallMatlab
-'./install
-' cd bin/
-' sudo ln -s /usr/local/MATLAB/R2017a/bin/matlab matlab
+
+./install
+
+cd bin/
+
+sudo ln -s /usr/local/MATLAB/R2017a/bin/matlab matlab
 
 
 
