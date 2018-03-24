@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="media/R2.gif", width="480">
+    <img src="media/R2.gif", width="320">
 </p>
 
 
@@ -39,28 +39,33 @@ Joint 4 to 5: 100cm
 
 ## Quick Start
 Open matlab
-set path under ./matlab_robot_workspace and run Workspace_Robot2_Jc.m file.
-
+set path under ./matlab_robot_workspace/code and run Workspace_Robot2_Jc.m file.
+<p align="center">
+    <img src="media/setpath.jpg", width="1080">
+</p>
 
 
 ## Workspace
 
 ###3D
 <p align="center">
-    <img src="workspace_Robot2-3D.jpg", width="480">
+    <img src="media/workspace_Robot2-3D.jpg", width="720">
 </p>
+
 
 ###Main view
 <p align="center">
-    <img src="workspace_Robot2-XZ.jpg", width="480">
+    <img src="media/workspace_Robot2-XZ.jpg", width="720">
 </p>
+
 
 ###Left view
 <p align="center">
-    <img src="workspace_Robot2-YZ.jpg", width="480">
+    <img src="media/workspace_Robot2-YZ.jpg", width="720">
 </p>
+
 
 ###Vertical view
 <p align="center">
-    <img src="workspace_Robot2-XY.jpg", width="480">
+    <img src="media/workspace_Robot2-XY.jpg", width="720">
 </p>
