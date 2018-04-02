@@ -51,6 +51,12 @@ set path under ./matlab_robot_workspace/code and run Workspace_Robot2_Jc.m file.
     <img src="media/setpath.png", width="720">
 </p>
 
+program structure
+<p align="center">
+    <img src="media/code_flow.jpg", width="720">
+</p>
+
+
 
 ## Workspace
 
